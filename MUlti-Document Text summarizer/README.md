@@ -26,5 +26,5 @@ Example -
 `Desktop/036-Project-IR-MYMPY/DUC2004_documents_cleaned_tokenized/d30001t_raw`
 
 ### GUI
-![GUI](https://photos.app.goo.gl/9G6u7LqVpL95tn3t8 "GUI")
+![](https://github.com/chandan5362/Information-retrieval/blob/44b0797569badd9b8cad9ebd8473a4ee2e595530/MUlti-Document%20Text%20summarizer/Images/GUI.JPG)
 	
