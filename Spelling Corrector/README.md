@@ -1,4 +1,4 @@
-1. Install numpy as
+1 . Install numpy as
 
 	- pip install numpy
 
